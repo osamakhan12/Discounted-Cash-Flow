@@ -19,7 +19,7 @@ bash
 pip install matplotlib urllib3 seaborn
 
 
-## Basic Usage
+Basic Usage
 As of now, command line arguments are used to parse parameters. See main.py for default values. Here is a description of the parameters:
 
 bash
